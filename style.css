@@ -70,4 +70,9 @@ body{
     margin-right: 35px;
 
 }
+@media only screen and (max-width:500px){
+    .container{
+        width: 80vw;
+    }
+}
 
